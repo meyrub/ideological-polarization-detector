@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # Detecting shifts in ideological polarization using NLP-based sentiment analysis pre- and post-identity politics legislation
 
 ## Overview
