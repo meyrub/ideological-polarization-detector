@@ -87,7 +87,7 @@ There are two separate programmes for this project
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/meyrub/echo-chamber-polarization.git
+git clone https://github.com/meyrub/eideological-polarization-detector.git
 cd echo-chamber-polarization
 ```
 
