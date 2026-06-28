@@ -1,0 +1,2 @@
+event_id,policy_name,policy_date,event_type,description,before_window_start,before_window_end,after_window_start,after_window_end
+policy_001,Digital Integrity Act,2026-03-01,policy_passed,Synthetic policy event used to create before/after polarization behavior.,2025-12-31,2026-02-28,2026-03-02,2026-04-30

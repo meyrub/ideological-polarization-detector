@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local databases
+*.sqlite
+*.db
+
+# Raw or private data
+data/raw/
+data/private/
+
+# Large outputs
+outputs/*.png
+outputs/*.csv
+outputs/*.xlsx
+outputs/*.zip
+
+# Secrets
+.env
+*.key
+*.pem

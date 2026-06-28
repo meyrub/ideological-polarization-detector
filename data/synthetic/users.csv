@@ -1,0 +1,361 @@
+user_id,username,ground_truth_cluster,cluster_label,ground_truth_stance,country,region,primary_platform,account_created_at,bot_probability,activity_level
+u0001,Privacy0001,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Texas,TwitterLike,2025-08-10 00:00:00,0.234,low
+u0002,Account0002,C1_pro_policy,Pro-policy reform advocates,pro,USA,Illinois,TwitterLike,2025-06-10 00:00:00,0.085,medium
+u0003,Data0003,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,New York,TwitterLike,2023-11-10 00:00:00,0.018,medium
+u0004,Brief0004,C4_neutral_news,Neutral news and information sharers,neutral,Germany,Hamburg,TwitterLike,2023-05-31 00:00:00,0.011,medium
+u0005,Data0005,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Germany,Berlin,RedditLike,2023-10-31 00:00:00,0.107,medium
+u0006,Civil0006,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Germany,Berlin,RedditLike,2025-07-08 00:00:00,0.055,medium
+u0007,Update0007,C4_neutral_news,Neutral news and information sharers,neutral,Canada,Ontario,InstaLike,2023-09-28 00:00:00,0.042,medium
+u0008,Civic0008,C1_pro_policy,Pro-policy reform advocates,pro,UK,Wales,TwitterLike,2025-04-03 00:00:00,0.046,very_high
+u0009,Liberty0009,C2_anti_policy,Anti-policy free speech advocates,anti,USA,New York,RedditLike,2025-09-28 00:00:00,0.022,very_high
+u0010,Everyday0010,C5_general_public,General public and mixed-topic users,mixed,UK,Wales,InstaLike,2025-12-19 00:00:00,0.19,low
+u0011,OpenNet0011,C2_anti_policy,Anti-policy free speech advocates,anti,USA,California,NewsForum,2023-07-18 00:00:00,0.084,very_high
+u0012,Civil0012,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,New York,RedditLike,2023-10-25 00:00:00,0.098,medium
+u0013,Safety0013,C1_pro_policy,Pro-policy reform advocates,pro,USA,Illinois,NewsForum,2025-10-04 00:00:00,0.255,high
+u0014,Mixed0014,C5_general_public,General public and mixed-topic users,mixed,USA,Illinois,InstaLike,2024-10-23 00:00:00,0.176,medium
+u0015,OpenNet0015,C2_anti_policy,Anti-policy free speech advocates,anti,UK,England,TwitterLike,2025-10-26 00:00:00,0.004,low
+u0016,Reform0016,C1_pro_policy,Pro-policy reform advocates,pro,Australia,Victoria,TwitterLike,2025-05-01 00:00:00,0.212,very_high
+u0017,Privacy0017,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Florida,InstaLike,2025-06-19 00:00:00,0.016,low
+u0018,Data0018,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Australia,New South Wales,TwitterLike,2023-12-16 00:00:00,0.041,high
+u0019,Account0019,C1_pro_policy,Pro-policy reform advocates,pro,Australia,Victoria,InstaLike,2023-08-07 00:00:00,0.015,low
+u0020,Mixed0020,C5_general_public,General public and mixed-topic users,mixed,Canada,Ontario,TwitterLike,2024-08-25 00:00:00,0.345,high
+u0021,Free0021,C2_anti_policy,Anti-policy free speech advocates,anti,Germany,Hamburg,NewsForum,2024-06-09 00:00:00,0.022,low
+u0022,Account0022,C1_pro_policy,Pro-policy reform advocates,pro,UK,Wales,TwitterLike,2023-04-22 00:00:00,0.15,very_high
+u0023,Account0023,C1_pro_policy,Pro-policy reform advocates,pro,Netherlands,Utrecht,TwitterLike,2024-02-26 00:00:00,0.134,medium
+u0024,Trust0024,C1_pro_policy,Pro-policy reform advocates,pro,USA,Texas,TwitterLike,2023-05-24 00:00:00,0.002,very_high
+u0025,Civic0025,C1_pro_policy,Pro-policy reform advocates,pro,USA,Texas,InstaLike,2023-07-14 00:00:00,0.044,very_high
+u0026,Social0026,C5_general_public,General public and mixed-topic users,mixed,Canada,British Columbia,TwitterLike,2023-09-16 00:00:00,0.069,very_high
+u0027,Reform0027,C1_pro_policy,Pro-policy reform advocates,pro,USA,New York,RedditLike,2025-06-05 00:00:00,0.083,low
+u0028,Safety0028,C1_pro_policy,Pro-policy reform advocates,pro,Canada,British Columbia,NewsForum,2025-07-18 00:00:00,0.073,very_high
+u0029,Trust0029,C1_pro_policy,Pro-policy reform advocates,pro,USA,Illinois,TwitterLike,2025-08-22 00:00:00,0.037,medium
+u0030,Safety0030,C1_pro_policy,Pro-policy reform advocates,pro,USA,California,TwitterLike,2024-06-05 00:00:00,0.033,medium
+u0031,Rights0031,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Florida,InstaLike,2023-07-30 00:00:00,0.062,high
+u0032,Civic0032,C1_pro_policy,Pro-policy reform advocates,pro,Canada,Quebec,TwitterLike,2023-09-12 00:00:00,0.037,low
+u0033,Social0033,C5_general_public,General public and mixed-topic users,mixed,USA,Illinois,TwitterLike,2023-08-20 00:00:00,0.205,medium
+u0034,Cipher0034,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Illinois,NewsForum,2025-09-03 00:00:00,0.007,medium
+u0035,Liberty0035,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Texas,RedditLike,2024-02-20 00:00:00,0.208,high
+u0036,Cipher0036,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,UK,England,TwitterLike,2023-05-13 00:00:00,0.145,very_high
+u0037,Analyst0037,C4_neutral_news,Neutral news and information sharers,neutral,USA,New York,TwitterLike,2024-05-16 00:00:00,0.153,high
+u0038,Update0038,C4_neutral_news,Neutral news and information sharers,neutral,Australia,Queensland,TwitterLike,2025-10-05 00:00:00,0.108,medium
+u0039,Rights0039,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,New York,TwitterLike,2025-11-13 00:00:00,0.152,high
+u0040,Liberty0040,C2_anti_policy,Anti-policy free speech advocates,anti,USA,California,InstaLike,2023-08-02 00:00:00,0.254,low
+u0041,Resist0041,C2_anti_policy,Anti-policy free speech advocates,anti,Canada,British Columbia,RedditLike,2024-06-06 00:00:00,0.052,very_high
+u0042,Free0042,C2_anti_policy,Anti-policy free speech advocates,anti,Australia,Victoria,InstaLike,2023-11-30 00:00:00,0.056,very_high
+u0043,Speech0043,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Florida,TwitterLike,2025-03-13 00:00:00,0.04,medium
+u0044,OpenNet0044,C2_anti_policy,Anti-policy free speech advocates,anti,USA,New York,TwitterLike,2024-11-08 00:00:00,0.133,very_high
+u0045,Curious0045,C5_general_public,General public and mixed-topic users,mixed,USA,Illinois,TwitterLike,2025-12-24 00:00:00,0.03,very_high
+u0046,News0046,C4_neutral_news,Neutral news and information sharers,neutral,UK,Wales,InstaLike,2024-08-18 00:00:00,0.046,high
+u0047,Privacy0047,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Canada,Ontario,NewsForum,2024-07-02 00:00:00,0.097,medium
+u0048,Safety0048,C1_pro_policy,Pro-policy reform advocates,pro,USA,Florida,TwitterLike,2023-05-01 00:00:00,0.003,low
+u0049,News0049,C4_neutral_news,Neutral news and information sharers,neutral,Australia,New South Wales,InstaLike,2024-04-03 00:00:00,0.054,high
+u0050,Privacy0050,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Germany,Berlin,RedditLike,2023-04-19 00:00:00,0.029,high
+u0051,Speech0051,C2_anti_policy,Anti-policy free speech advocates,anti,Germany,Berlin,RedditLike,2023-09-02 00:00:00,0.011,low
+u0052,Update0052,C4_neutral_news,Neutral news and information sharers,neutral,UK,England,TwitterLike,2024-10-18 00:00:00,0.011,medium
+u0053,Civil0053,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Canada,British Columbia,TwitterLike,2025-07-03 00:00:00,0.071,medium
+u0054,Analyst0054,C4_neutral_news,Neutral news and information sharers,neutral,USA,Florida,TwitterLike,2024-09-11 00:00:00,0.233,medium
+u0055,Resist0055,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Texas,TwitterLike,2023-07-13 00:00:00,0.348,low
+u0056,Safety0056,C1_pro_policy,Pro-policy reform advocates,pro,USA,Illinois,InstaLike,2024-01-23 00:00:00,0.112,medium
+u0057,Resist0057,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Illinois,TwitterLike,2024-06-12 00:00:00,0.053,high
+u0058,Trust0058,C1_pro_policy,Pro-policy reform advocates,pro,USA,California,RedditLike,2025-02-10 00:00:00,0.172,high
+u0059,Civic0059,C1_pro_policy,Pro-policy reform advocates,pro,Netherlands,Utrecht,RedditLike,2025-09-19 00:00:00,0.054,medium
+u0060,Civic0060,C1_pro_policy,Pro-policy reform advocates,pro,Australia,Queensland,TwitterLike,2023-05-09 00:00:00,0.164,medium
+u0061,Safety0061,C1_pro_policy,Pro-policy reform advocates,pro,USA,Florida,TwitterLike,2025-10-25 00:00:00,0.076,very_high
+u0062,User0062,C5_general_public,General public and mixed-topic users,mixed,USA,New York,TwitterLike,2023-11-09 00:00:00,0.157,high
+u0063,Social0063,C5_general_public,General public and mixed-topic users,mixed,USA,Illinois,NewsForum,2025-02-21 00:00:00,0.109,medium
+u0064,Civil0064,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,California,TwitterLike,2025-07-06 00:00:00,0.092,medium
+u0065,Civil0065,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,UK,Wales,TwitterLike,2025-04-04 00:00:00,0.158,medium
+u0066,Curious0066,C5_general_public,General public and mixed-topic users,mixed,Canada,Ontario,TwitterLike,2023-10-11 00:00:00,0.124,high
+u0067,Everyday0067,C5_general_public,General public and mixed-topic users,mixed,UK,Scotland,TwitterLike,2024-04-27 00:00:00,0.024,low
+u0068,Mixed0068,C5_general_public,General public and mixed-topic users,mixed,Germany,Bavaria,RedditLike,2023-11-10 00:00:00,0.078,high
+u0069,Everyday0069,C5_general_public,General public and mixed-topic users,mixed,UK,Scotland,TwitterLike,2024-02-13 00:00:00,0.099,very_high
+u0070,Safety0070,C1_pro_policy,Pro-policy reform advocates,pro,USA,Texas,TwitterLike,2023-04-12 00:00:00,0.0,very_high
+u0071,Speech0071,C2_anti_policy,Anti-policy free speech advocates,anti,Germany,Hamburg,TwitterLike,2025-11-08 00:00:00,0.049,high
+u0072,Civic0072,C1_pro_policy,Pro-policy reform advocates,pro,Australia,Queensland,InstaLike,2024-01-04 00:00:00,0.094,medium
+u0073,Free0073,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Florida,NewsForum,2025-04-25 00:00:00,0.066,medium
+u0074,Analyst0074,C4_neutral_news,Neutral news and information sharers,neutral,USA,Florida,TwitterLike,2023-10-16 00:00:00,0.176,medium
+u0075,Free0075,C2_anti_policy,Anti-policy free speech advocates,anti,UK,Scotland,RedditLike,2024-06-22 00:00:00,0.104,very_high
+u0076,Free0076,C2_anti_policy,Anti-policy free speech advocates,anti,Canada,Quebec,TwitterLike,2023-11-29 00:00:00,0.187,medium
+u0077,Liberty0077,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Illinois,NewsForum,2025-01-25 00:00:00,0.082,medium
+u0078,Safety0078,C1_pro_policy,Pro-policy reform advocates,pro,Canada,Quebec,TwitterLike,2024-01-21 00:00:00,0.105,high
+u0079,Social0079,C5_general_public,General public and mixed-topic users,mixed,Netherlands,South Holland,InstaLike,2025-11-24 00:00:00,0.007,low
+u0080,OpenNet0080,C2_anti_policy,Anti-policy free speech advocates,anti,USA,California,TwitterLike,2024-01-20 00:00:00,0.059,medium
+u0081,Safety0081,C1_pro_policy,Pro-policy reform advocates,pro,USA,Florida,RedditLike,2025-04-28 00:00:00,0.099,high
+u0082,Curious0082,C5_general_public,General public and mixed-topic users,mixed,Germany,Berlin,TwitterLike,2023-05-08 00:00:00,0.119,medium
+u0083,Cipher0083,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Australia,Victoria,TwitterLike,2023-09-03 00:00:00,0.036,low
+u0084,Social0084,C5_general_public,General public and mixed-topic users,mixed,Germany,Bavaria,InstaLike,2025-05-09 00:00:00,0.023,medium
+u0085,Cipher0085,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Australia,Queensland,TwitterLike,2023-10-15 00:00:00,0.009,medium
+u0086,Update0086,C4_neutral_news,Neutral news and information sharers,neutral,USA,New York,InstaLike,2023-07-17 00:00:00,0.074,high
+u0087,Everyday0087,C5_general_public,General public and mixed-topic users,mixed,USA,Texas,InstaLike,2024-09-07 00:00:00,0.015,high
+u0088,Everyday0088,C5_general_public,General public and mixed-topic users,mixed,Canada,Quebec,TwitterLike,2024-11-21 00:00:00,0.045,medium
+u0089,Cipher0089,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Canada,Quebec,TwitterLike,2025-05-05 00:00:00,0.004,medium
+u0090,Cipher0090,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Netherlands,South Holland,NewsForum,2025-02-24 00:00:00,0.01,very_high
+u0091,Account0091,C1_pro_policy,Pro-policy reform advocates,pro,UK,Wales,NewsForum,2024-01-17 00:00:00,0.098,low
+u0092,News0092,C4_neutral_news,Neutral news and information sharers,neutral,Netherlands,South Holland,TwitterLike,2024-12-16 00:00:00,0.066,medium
+u0093,Safety0093,C1_pro_policy,Pro-policy reform advocates,pro,USA,California,NewsForum,2023-09-09 00:00:00,0.013,low
+u0094,Policy0094,C4_neutral_news,Neutral news and information sharers,neutral,USA,New York,InstaLike,2025-06-03 00:00:00,0.147,very_high
+u0095,Reform0095,C1_pro_policy,Pro-policy reform advocates,pro,Canada,Ontario,NewsForum,2024-06-25 00:00:00,0.054,medium
+u0096,Safety0096,C1_pro_policy,Pro-policy reform advocates,pro,Germany,Hamburg,TwitterLike,2025-10-26 00:00:00,0.072,medium
+u0097,Everyday0097,C5_general_public,General public and mixed-topic users,mixed,USA,Illinois,TwitterLike,2024-03-12 00:00:00,0.011,high
+u0098,Privacy0098,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,California,TwitterLike,2025-08-01 00:00:00,0.018,high
+u0099,Everyday0099,C5_general_public,General public and mixed-topic users,mixed,UK,Scotland,RedditLike,2024-10-16 00:00:00,0.141,high
+u0100,Free0100,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Texas,InstaLike,2024-11-17 00:00:00,0.214,medium
+u0101,Cipher0101,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,UK,England,InstaLike,2025-09-26 00:00:00,0.011,very_high
+u0102,User0102,C5_general_public,General public and mixed-topic users,mixed,UK,Wales,TwitterLike,2025-01-02 00:00:00,0.073,medium
+u0103,Update0103,C4_neutral_news,Neutral news and information sharers,neutral,USA,Illinois,TwitterLike,2023-11-11 00:00:00,0.083,very_high
+u0104,Data0104,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Netherlands,North Holland,RedditLike,2024-02-26 00:00:00,0.004,medium
+u0105,Civic0105,C1_pro_policy,Pro-policy reform advocates,pro,Canada,British Columbia,RedditLike,2025-10-20 00:00:00,0.282,high
+u0106,Resist0106,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Texas,TwitterLike,2025-02-01 00:00:00,0.165,low
+u0107,Cipher0107,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Florida,TwitterLike,2024-10-04 00:00:00,0.063,medium
+u0108,Rights0108,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Netherlands,Utrecht,RedditLike,2025-11-14 00:00:00,0.084,medium
+u0109,Speech0109,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Florida,RedditLike,2025-07-04 00:00:00,0.062,medium
+u0110,Trust0110,C1_pro_policy,Pro-policy reform advocates,pro,Canada,Ontario,TwitterLike,2024-09-16 00:00:00,0.121,low
+u0111,Curious0111,C5_general_public,General public and mixed-topic users,mixed,USA,Illinois,TwitterLike,2024-01-24 00:00:00,0.017,very_high
+u0112,Civic0112,C1_pro_policy,Pro-policy reform advocates,pro,Canada,British Columbia,TwitterLike,2025-01-23 00:00:00,0.012,medium
+u0113,Liberty0113,C2_anti_policy,Anti-policy free speech advocates,anti,Australia,Queensland,InstaLike,2025-05-03 00:00:00,0.02,low
+u0114,Account0114,C1_pro_policy,Pro-policy reform advocates,pro,Canada,Quebec,TwitterLike,2024-06-01 00:00:00,0.074,very_high
+u0115,Free0115,C2_anti_policy,Anti-policy free speech advocates,anti,Australia,Victoria,TwitterLike,2025-10-22 00:00:00,0.091,very_high
+u0116,Reform0116,C1_pro_policy,Pro-policy reform advocates,pro,UK,England,TwitterLike,2023-09-01 00:00:00,0.008,very_high
+u0117,Resist0117,C2_anti_policy,Anti-policy free speech advocates,anti,Netherlands,Utrecht,InstaLike,2024-09-26 00:00:00,0.148,low
+u0118,Resist0118,C2_anti_policy,Anti-policy free speech advocates,anti,Canada,Quebec,NewsForum,2025-10-05 00:00:00,0.171,medium
+u0119,Resist0119,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Florida,InstaLike,2024-02-04 00:00:00,0.01,very_high
+u0120,Privacy0120,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Illinois,InstaLike,2025-01-23 00:00:00,0.131,high
+u0121,Reform0121,C1_pro_policy,Pro-policy reform advocates,pro,Germany,Berlin,TwitterLike,2024-12-10 00:00:00,0.2,very_high
+u0122,Reform0122,C1_pro_policy,Pro-policy reform advocates,pro,Germany,Hamburg,TwitterLike,2024-12-24 00:00:00,0.035,low
+u0123,Resist0123,C2_anti_policy,Anti-policy free speech advocates,anti,Canada,British Columbia,InstaLike,2023-08-28 00:00:00,0.005,high
+u0124,Safety0124,C1_pro_policy,Pro-policy reform advocates,pro,USA,Illinois,InstaLike,2025-07-14 00:00:00,0.006,very_high
+u0125,OpenNet0125,C2_anti_policy,Anti-policy free speech advocates,anti,Germany,Bavaria,TwitterLike,2025-04-30 00:00:00,0.165,high
+u0126,Resist0126,C2_anti_policy,Anti-policy free speech advocates,anti,USA,New York,InstaLike,2023-10-02 00:00:00,0.019,very_high
+u0127,Everyday0127,C5_general_public,General public and mixed-topic users,mixed,Germany,Hamburg,InstaLike,2025-03-14 00:00:00,0.095,medium
+u0128,User0128,C5_general_public,General public and mixed-topic users,mixed,USA,Florida,RedditLike,2025-05-03 00:00:00,0.004,medium
+u0129,Safety0129,C1_pro_policy,Pro-policy reform advocates,pro,USA,Florida,RedditLike,2025-08-10 00:00:00,0.009,very_high
+u0130,Liberty0130,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Texas,TwitterLike,2025-08-28 00:00:00,0.033,high
+u0131,Rights0131,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Illinois,RedditLike,2023-12-26 00:00:00,0.075,very_high
+u0132,Social0132,C5_general_public,General public and mixed-topic users,mixed,USA,Illinois,RedditLike,2023-10-17 00:00:00,0.11,medium
+u0133,Trust0133,C1_pro_policy,Pro-policy reform advocates,pro,USA,California,TwitterLike,2023-12-11 00:00:00,0.244,very_high
+u0134,Free0134,C2_anti_policy,Anti-policy free speech advocates,anti,Netherlands,Utrecht,TwitterLike,2024-01-18 00:00:00,0.217,high
+u0135,Reform0135,C1_pro_policy,Pro-policy reform advocates,pro,USA,New York,InstaLike,2025-02-10 00:00:00,0.092,medium
+u0136,OpenNet0136,C2_anti_policy,Anti-policy free speech advocates,anti,Canada,Ontario,InstaLike,2025-01-25 00:00:00,0.012,high
+u0137,Resist0137,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Florida,TwitterLike,2023-10-06 00:00:00,0.085,medium
+u0138,Cipher0138,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Illinois,RedditLike,2025-07-13 00:00:00,0.013,medium
+u0139,Everyday0139,C5_general_public,General public and mixed-topic users,mixed,USA,Illinois,RedditLike,2024-10-08 00:00:00,0.017,very_high
+u0140,Safety0140,C1_pro_policy,Pro-policy reform advocates,pro,USA,Florida,NewsForum,2024-12-15 00:00:00,0.208,medium
+u0141,Account0141,C1_pro_policy,Pro-policy reform advocates,pro,USA,New York,TwitterLike,2024-11-29 00:00:00,0.015,very_high
+u0142,Liberty0142,C2_anti_policy,Anti-policy free speech advocates,anti,Australia,Victoria,TwitterLike,2025-08-14 00:00:00,0.082,medium
+u0143,Data0143,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Germany,Hamburg,RedditLike,2023-07-02 00:00:00,0.027,low
+u0144,Speech0144,C2_anti_policy,Anti-policy free speech advocates,anti,Netherlands,South Holland,InstaLike,2024-06-14 00:00:00,0.148,high
+u0145,OpenNet0145,C2_anti_policy,Anti-policy free speech advocates,anti,Germany,Hamburg,TwitterLike,2023-04-10 00:00:00,0.123,very_high
+u0146,Privacy0146,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,New York,TwitterLike,2023-06-12 00:00:00,0.057,medium
+u0147,Civil0147,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,UK,England,RedditLike,2024-04-10 00:00:00,0.013,medium
+u0148,Civil0148,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Germany,Hamburg,TwitterLike,2023-05-29 00:00:00,0.011,very_high
+u0149,Trust0149,C1_pro_policy,Pro-policy reform advocates,pro,USA,Illinois,TwitterLike,2024-03-16 00:00:00,0.107,high
+u0150,Trust0150,C1_pro_policy,Pro-policy reform advocates,pro,Canada,Quebec,TwitterLike,2025-10-17 00:00:00,0.024,medium
+u0151,Free0151,C2_anti_policy,Anti-policy free speech advocates,anti,Germany,Hamburg,NewsForum,2025-01-11 00:00:00,0.019,high
+u0152,Safety0152,C1_pro_policy,Pro-policy reform advocates,pro,USA,New York,TwitterLike,2025-03-08 00:00:00,0.222,medium
+u0153,Liberty0153,C2_anti_policy,Anti-policy free speech advocates,anti,UK,Scotland,InstaLike,2024-08-08 00:00:00,0.014,very_high
+u0154,Free0154,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Florida,RedditLike,2023-08-20 00:00:00,0.044,low
+u0155,Civil0155,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Illinois,TwitterLike,2024-11-30 00:00:00,0.058,very_high
+u0156,Account0156,C1_pro_policy,Pro-policy reform advocates,pro,Australia,Victoria,TwitterLike,2025-01-17 00:00:00,0.03,medium
+u0157,Civil0157,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Canada,British Columbia,TwitterLike,2024-04-19 00:00:00,0.025,very_high
+u0158,Civil0158,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Texas,RedditLike,2024-07-27 00:00:00,0.09,medium
+u0159,Privacy0159,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Australia,Queensland,TwitterLike,2023-06-24 00:00:00,0.109,very_high
+u0160,Civil0160,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Germany,Hamburg,TwitterLike,2024-07-12 00:00:00,0.148,high
+u0161,Safety0161,C1_pro_policy,Pro-policy reform advocates,pro,Germany,Bavaria,RedditLike,2024-04-13 00:00:00,0.027,medium
+u0162,Curious0162,C5_general_public,General public and mixed-topic users,mixed,UK,Wales,TwitterLike,2025-01-02 00:00:00,0.156,medium
+u0163,User0163,C5_general_public,General public and mixed-topic users,mixed,Australia,Victoria,RedditLike,2024-01-24 00:00:00,0.029,medium
+u0164,OpenNet0164,C2_anti_policy,Anti-policy free speech advocates,anti,Netherlands,Utrecht,TwitterLike,2024-11-21 00:00:00,0.037,high
+u0165,Data0165,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Germany,Berlin,TwitterLike,2024-06-27 00:00:00,0.019,very_high
+u0166,Safety0166,C1_pro_policy,Pro-policy reform advocates,pro,USA,California,TwitterLike,2023-12-27 00:00:00,0.009,high
+u0167,Privacy0167,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Germany,Bavaria,TwitterLike,2024-03-09 00:00:00,0.095,medium
+u0168,Free0168,C2_anti_policy,Anti-policy free speech advocates,anti,Canada,Ontario,NewsForum,2024-11-19 00:00:00,0.019,low
+u0169,Reform0169,C1_pro_policy,Pro-policy reform advocates,pro,UK,England,NewsForum,2025-01-21 00:00:00,0.077,medium
+u0170,News0170,C4_neutral_news,Neutral news and information sharers,neutral,UK,England,InstaLike,2025-01-26 00:00:00,0.211,medium
+u0171,Reform0171,C1_pro_policy,Pro-policy reform advocates,pro,Canada,Quebec,InstaLike,2024-07-21 00:00:00,0.018,medium
+u0172,Curious0172,C5_general_public,General public and mixed-topic users,mixed,USA,Florida,TwitterLike,2023-11-20 00:00:00,0.169,very_high
+u0173,Curious0173,C5_general_public,General public and mixed-topic users,mixed,Canada,Quebec,RedditLike,2024-03-16 00:00:00,0.062,medium
+u0174,Speech0174,C2_anti_policy,Anti-policy free speech advocates,anti,UK,Scotland,InstaLike,2023-10-01 00:00:00,0.198,very_high
+u0175,Liberty0175,C2_anti_policy,Anti-policy free speech advocates,anti,Germany,Berlin,NewsForum,2025-09-07 00:00:00,0.335,medium
+u0176,Resist0176,C2_anti_policy,Anti-policy free speech advocates,anti,UK,England,RedditLike,2023-12-27 00:00:00,0.092,medium
+u0177,OpenNet0177,C2_anti_policy,Anti-policy free speech advocates,anti,UK,England,RedditLike,2024-02-11 00:00:00,0.142,very_high
+u0178,Trust0178,C1_pro_policy,Pro-policy reform advocates,pro,USA,California,RedditLike,2025-10-30 00:00:00,0.064,high
+u0179,Free0179,C2_anti_policy,Anti-policy free speech advocates,anti,Canada,Quebec,InstaLike,2023-06-16 00:00:00,0.054,medium
+u0180,Civic0180,C1_pro_policy,Pro-policy reform advocates,pro,Australia,Victoria,RedditLike,2023-12-16 00:00:00,0.244,high
+u0181,Policy0181,C4_neutral_news,Neutral news and information sharers,neutral,USA,Texas,TwitterLike,2025-06-20 00:00:00,0.005,low
+u0182,Trust0182,C1_pro_policy,Pro-policy reform advocates,pro,USA,Illinois,TwitterLike,2024-04-27 00:00:00,0.06,medium
+u0183,OpenNet0183,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Illinois,TwitterLike,2024-04-27 00:00:00,0.038,very_high
+u0184,Social0184,C5_general_public,General public and mixed-topic users,mixed,Canada,Ontario,RedditLike,2024-10-19 00:00:00,0.052,very_high
+u0185,Resist0185,C2_anti_policy,Anti-policy free speech advocates,anti,USA,New York,TwitterLike,2025-06-25 00:00:00,0.098,high
+u0186,User0186,C5_general_public,General public and mixed-topic users,mixed,UK,Scotland,RedditLike,2025-08-15 00:00:00,0.033,medium
+u0187,Account0187,C1_pro_policy,Pro-policy reform advocates,pro,Germany,Berlin,TwitterLike,2024-12-09 00:00:00,0.162,very_high
+u0188,Trust0188,C1_pro_policy,Pro-policy reform advocates,pro,USA,Texas,TwitterLike,2023-06-14 00:00:00,0.026,high
+u0189,Mixed0189,C5_general_public,General public and mixed-topic users,mixed,Germany,Hamburg,TwitterLike,2023-06-07 00:00:00,0.117,medium
+u0190,Free0190,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Florida,TwitterLike,2023-09-30 00:00:00,0.056,medium
+u0191,Reform0191,C1_pro_policy,Pro-policy reform advocates,pro,UK,Wales,RedditLike,2024-10-29 00:00:00,0.025,high
+u0192,Free0192,C2_anti_policy,Anti-policy free speech advocates,anti,Australia,Victoria,TwitterLike,2023-09-11 00:00:00,0.068,very_high
+u0193,Liberty0193,C2_anti_policy,Anti-policy free speech advocates,anti,Australia,Queensland,NewsForum,2023-04-25 00:00:00,0.155,low
+u0194,Policy0194,C4_neutral_news,Neutral news and information sharers,neutral,USA,New York,TwitterLike,2025-07-29 00:00:00,0.057,very_high
+u0195,User0195,C5_general_public,General public and mixed-topic users,mixed,Netherlands,North Holland,TwitterLike,2024-06-14 00:00:00,0.003,low
+u0196,Speech0196,C2_anti_policy,Anti-policy free speech advocates,anti,Germany,Bavaria,InstaLike,2023-06-13 00:00:00,0.022,medium
+u0197,News0197,C4_neutral_news,Neutral news and information sharers,neutral,USA,Florida,TwitterLike,2025-04-25 00:00:00,0.075,low
+u0198,Trust0198,C1_pro_policy,Pro-policy reform advocates,pro,USA,Illinois,TwitterLike,2024-03-18 00:00:00,0.025,low
+u0199,Reform0199,C1_pro_policy,Pro-policy reform advocates,pro,Australia,Queensland,InstaLike,2024-08-31 00:00:00,0.09,high
+u0200,User0200,C5_general_public,General public and mixed-topic users,mixed,USA,Illinois,TwitterLike,2023-08-29 00:00:00,0.171,low
+u0201,Liberty0201,C2_anti_policy,Anti-policy free speech advocates,anti,Australia,New South Wales,TwitterLike,2025-05-07 00:00:00,0.066,high
+u0202,Account0202,C1_pro_policy,Pro-policy reform advocates,pro,UK,Scotland,TwitterLike,2024-02-03 00:00:00,0.111,medium
+u0203,OpenNet0203,C2_anti_policy,Anti-policy free speech advocates,anti,Canada,Ontario,RedditLike,2025-02-09 00:00:00,0.059,medium
+u0204,Liberty0204,C2_anti_policy,Anti-policy free speech advocates,anti,UK,Wales,TwitterLike,2025-12-04 00:00:00,0.052,high
+u0205,Civic0205,C1_pro_policy,Pro-policy reform advocates,pro,USA,California,RedditLike,2024-06-06 00:00:00,0.124,medium
+u0206,Reform0206,C1_pro_policy,Pro-policy reform advocates,pro,USA,New York,TwitterLike,2024-10-25 00:00:00,0.106,high
+u0207,Cipher0207,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,California,TwitterLike,2025-12-24 00:00:00,0.04,medium
+u0208,OpenNet0208,C2_anti_policy,Anti-policy free speech advocates,anti,Canada,British Columbia,NewsForum,2025-08-13 00:00:00,0.066,high
+u0209,Mixed0209,C5_general_public,General public and mixed-topic users,mixed,USA,Florida,NewsForum,2023-10-22 00:00:00,0.04,very_high
+u0210,Trust0210,C1_pro_policy,Pro-policy reform advocates,pro,Australia,New South Wales,RedditLike,2024-06-15 00:00:00,0.203,high
+u0211,Rights0211,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Texas,TwitterLike,2024-02-25 00:00:00,0.269,high
+u0212,Data0212,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,UK,Wales,TwitterLike,2025-11-23 00:00:00,0.16,low
+u0213,Policy0213,C4_neutral_news,Neutral news and information sharers,neutral,Netherlands,South Holland,TwitterLike,2024-04-12 00:00:00,0.099,medium
+u0214,Social0214,C5_general_public,General public and mixed-topic users,mixed,USA,California,TwitterLike,2025-05-17 00:00:00,0.175,medium
+u0215,OpenNet0215,C2_anti_policy,Anti-policy free speech advocates,anti,Canada,British Columbia,RedditLike,2025-07-29 00:00:00,0.073,medium
+u0216,Free0216,C2_anti_policy,Anti-policy free speech advocates,anti,USA,New York,RedditLike,2025-01-08 00:00:00,0.016,low
+u0217,News0217,C4_neutral_news,Neutral news and information sharers,neutral,USA,Texas,RedditLike,2024-02-06 00:00:00,0.109,high
+u0218,Safety0218,C1_pro_policy,Pro-policy reform advocates,pro,USA,New York,TwitterLike,2024-02-26 00:00:00,0.044,high
+u0219,Liberty0219,C2_anti_policy,Anti-policy free speech advocates,anti,Germany,Berlin,TwitterLike,2024-01-10 00:00:00,0.112,medium
+u0220,OpenNet0220,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Florida,RedditLike,2024-03-16 00:00:00,0.115,high
+u0221,Civil0221,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Canada,British Columbia,InstaLike,2023-06-04 00:00:00,0.138,low
+u0222,Civic0222,C1_pro_policy,Pro-policy reform advocates,pro,Germany,Hamburg,TwitterLike,2024-04-29 00:00:00,0.115,medium
+u0223,Free0223,C2_anti_policy,Anti-policy free speech advocates,anti,UK,England,TwitterLike,2023-08-21 00:00:00,0.169,very_high
+u0224,Free0224,C2_anti_policy,Anti-policy free speech advocates,anti,UK,Wales,TwitterLike,2024-01-03 00:00:00,0.165,medium
+u0225,Account0225,C1_pro_policy,Pro-policy reform advocates,pro,USA,Texas,TwitterLike,2024-09-18 00:00:00,0.19,low
+u0226,Trust0226,C1_pro_policy,Pro-policy reform advocates,pro,UK,Scotland,RedditLike,2023-11-17 00:00:00,0.257,medium
+u0227,Liberty0227,C2_anti_policy,Anti-policy free speech advocates,anti,Australia,Victoria,TwitterLike,2023-08-01 00:00:00,0.059,very_high
+u0228,Civil0228,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Canada,British Columbia,RedditLike,2025-07-14 00:00:00,0.028,medium
+u0229,OpenNet0229,C2_anti_policy,Anti-policy free speech advocates,anti,Netherlands,North Holland,TwitterLike,2024-01-10 00:00:00,0.031,low
+u0230,Civic0230,C1_pro_policy,Pro-policy reform advocates,pro,Germany,Bavaria,NewsForum,2025-03-22 00:00:00,0.028,high
+u0231,Free0231,C2_anti_policy,Anti-policy free speech advocates,anti,Netherlands,South Holland,RedditLike,2024-12-11 00:00:00,0.009,medium
+u0232,Civil0232,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Canada,Quebec,NewsForum,2025-01-29 00:00:00,0.001,high
+u0233,Rights0233,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Germany,Berlin,InstaLike,2024-11-18 00:00:00,0.106,medium
+u0234,Privacy0234,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,UK,Scotland,InstaLike,2023-11-11 00:00:00,0.008,high
+u0235,Civic0235,C1_pro_policy,Pro-policy reform advocates,pro,Germany,Berlin,InstaLike,2025-02-24 00:00:00,0.024,medium
+u0236,Safety0236,C1_pro_policy,Pro-policy reform advocates,pro,Netherlands,Utrecht,RedditLike,2025-05-05 00:00:00,0.203,high
+u0237,Civic0237,C1_pro_policy,Pro-policy reform advocates,pro,Germany,Berlin,NewsForum,2024-10-24 00:00:00,0.131,low
+u0238,Speech0238,C2_anti_policy,Anti-policy free speech advocates,anti,Canada,Ontario,TwitterLike,2023-09-20 00:00:00,0.22,very_high
+u0239,Cipher0239,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,New York,RedditLike,2025-07-28 00:00:00,0.163,medium
+u0240,Update0240,C4_neutral_news,Neutral news and information sharers,neutral,Netherlands,South Holland,TwitterLike,2024-10-17 00:00:00,0.132,medium
+u0241,Analyst0241,C4_neutral_news,Neutral news and information sharers,neutral,Germany,Hamburg,InstaLike,2025-06-03 00:00:00,0.137,medium
+u0242,Resist0242,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Florida,RedditLike,2025-10-19 00:00:00,0.064,high
+u0243,Liberty0243,C2_anti_policy,Anti-policy free speech advocates,anti,Germany,Bavaria,NewsForum,2023-11-03 00:00:00,0.01,very_high
+u0244,Analyst0244,C4_neutral_news,Neutral news and information sharers,neutral,USA,Florida,TwitterLike,2024-06-29 00:00:00,0.15,medium
+u0245,Everyday0245,C5_general_public,General public and mixed-topic users,mixed,USA,Texas,TwitterLike,2024-03-21 00:00:00,0.06,low
+u0246,Speech0246,C2_anti_policy,Anti-policy free speech advocates,anti,Netherlands,South Holland,RedditLike,2024-02-26 00:00:00,0.015,medium
+u0247,Speech0247,C2_anti_policy,Anti-policy free speech advocates,anti,Canada,British Columbia,TwitterLike,2024-12-15 00:00:00,0.17,low
+u0248,Resist0248,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Illinois,TwitterLike,2024-01-01 00:00:00,0.133,very_high
+u0249,Trust0249,C1_pro_policy,Pro-policy reform advocates,pro,USA,California,InstaLike,2024-02-09 00:00:00,0.064,medium
+u0250,Trust0250,C1_pro_policy,Pro-policy reform advocates,pro,USA,New York,TwitterLike,2023-04-22 00:00:00,0.088,medium
+u0251,Account0251,C1_pro_policy,Pro-policy reform advocates,pro,Australia,Victoria,TwitterLike,2025-10-12 00:00:00,0.046,high
+u0252,Reform0252,C1_pro_policy,Pro-policy reform advocates,pro,UK,Scotland,InstaLike,2025-02-15 00:00:00,0.015,medium
+u0253,Rights0253,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Texas,RedditLike,2024-08-12 00:00:00,0.15,high
+u0254,Trust0254,C1_pro_policy,Pro-policy reform advocates,pro,UK,Wales,InstaLike,2023-07-16 00:00:00,0.124,very_high
+u0255,Curious0255,C5_general_public,General public and mixed-topic users,mixed,USA,California,NewsForum,2025-08-07 00:00:00,0.009,medium
+u0256,Free0256,C2_anti_policy,Anti-policy free speech advocates,anti,Germany,Hamburg,TwitterLike,2025-08-16 00:00:00,0.012,medium
+u0257,OpenNet0257,C2_anti_policy,Anti-policy free speech advocates,anti,Canada,Quebec,RedditLike,2023-12-08 00:00:00,0.081,very_high
+u0258,Trust0258,C1_pro_policy,Pro-policy reform advocates,pro,USA,Florida,TwitterLike,2024-11-09 00:00:00,0.13,medium
+u0259,Analyst0259,C4_neutral_news,Neutral news and information sharers,neutral,USA,Texas,InstaLike,2024-01-17 00:00:00,0.008,medium
+u0260,Mixed0260,C5_general_public,General public and mixed-topic users,mixed,USA,California,RedditLike,2025-04-08 00:00:00,0.006,medium
+u0261,Civic0261,C1_pro_policy,Pro-policy reform advocates,pro,USA,New York,TwitterLike,2025-10-28 00:00:00,0.022,low
+u0262,Rights0262,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,California,TwitterLike,2025-10-25 00:00:00,0.014,low
+u0263,User0263,C5_general_public,General public and mixed-topic users,mixed,USA,Illinois,TwitterLike,2023-12-20 00:00:00,0.095,medium
+u0264,Account0264,C1_pro_policy,Pro-policy reform advocates,pro,USA,New York,TwitterLike,2024-04-05 00:00:00,0.04,low
+u0265,Account0265,C1_pro_policy,Pro-policy reform advocates,pro,USA,Florida,TwitterLike,2023-07-09 00:00:00,0.037,high
+u0266,Analyst0266,C4_neutral_news,Neutral news and information sharers,neutral,USA,Illinois,InstaLike,2025-01-12 00:00:00,0.122,medium
+u0267,Account0267,C1_pro_policy,Pro-policy reform advocates,pro,Canada,Quebec,TwitterLike,2024-09-03 00:00:00,0.072,medium
+u0268,Rights0268,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,California,InstaLike,2023-05-05 00:00:00,0.125,medium
+u0269,Account0269,C1_pro_policy,Pro-policy reform advocates,pro,Netherlands,Utrecht,RedditLike,2023-06-09 00:00:00,0.005,high
+u0270,Resist0270,C2_anti_policy,Anti-policy free speech advocates,anti,USA,California,TwitterLike,2025-05-06 00:00:00,0.043,medium
+u0271,Social0271,C5_general_public,General public and mixed-topic users,mixed,Canada,Quebec,TwitterLike,2025-08-01 00:00:00,0.019,high
+u0272,Cipher0272,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Texas,TwitterLike,2025-07-22 00:00:00,0.214,very_high
+u0273,Rights0273,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Australia,Victoria,TwitterLike,2024-05-06 00:00:00,0.073,low
+u0274,Social0274,C5_general_public,General public and mixed-topic users,mixed,Australia,Victoria,InstaLike,2023-11-02 00:00:00,0.003,medium
+u0275,Privacy0275,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Florida,TwitterLike,2023-11-28 00:00:00,0.05,low
+u0276,Policy0276,C4_neutral_news,Neutral news and information sharers,neutral,Germany,Hamburg,InstaLike,2024-09-29 00:00:00,0.068,low
+u0277,Rights0277,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Florida,RedditLike,2023-04-13 00:00:00,0.094,very_high
+u0278,Privacy0278,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Germany,Berlin,TwitterLike,2023-10-04 00:00:00,0.062,low
+u0279,Free0279,C2_anti_policy,Anti-policy free speech advocates,anti,Canada,Ontario,TwitterLike,2024-04-11 00:00:00,0.154,high
+u0280,Account0280,C1_pro_policy,Pro-policy reform advocates,pro,USA,New York,NewsForum,2024-11-06 00:00:00,0.217,medium
+u0281,Trust0281,C1_pro_policy,Pro-policy reform advocates,pro,USA,Illinois,InstaLike,2025-07-26 00:00:00,0.069,very_high
+u0282,Liberty0282,C2_anti_policy,Anti-policy free speech advocates,anti,USA,New York,TwitterLike,2025-03-07 00:00:00,0.065,medium
+u0283,Reform0283,C1_pro_policy,Pro-policy reform advocates,pro,UK,England,TwitterLike,2024-12-05 00:00:00,0.055,medium
+u0284,Analyst0284,C4_neutral_news,Neutral news and information sharers,neutral,Netherlands,North Holland,RedditLike,2023-09-25 00:00:00,0.088,high
+u0285,Brief0285,C4_neutral_news,Neutral news and information sharers,neutral,USA,Illinois,RedditLike,2023-05-17 00:00:00,0.133,low
+u0286,Speech0286,C2_anti_policy,Anti-policy free speech advocates,anti,Australia,Queensland,RedditLike,2024-04-04 00:00:00,0.025,medium
+u0287,Brief0287,C4_neutral_news,Neutral news and information sharers,neutral,USA,Florida,TwitterLike,2024-01-31 00:00:00,0.043,medium
+u0288,User0288,C5_general_public,General public and mixed-topic users,mixed,Australia,New South Wales,TwitterLike,2024-06-09 00:00:00,0.105,low
+u0289,Brief0289,C4_neutral_news,Neutral news and information sharers,neutral,Netherlands,Utrecht,InstaLike,2025-09-06 00:00:00,0.021,low
+u0290,Social0290,C5_general_public,General public and mixed-topic users,mixed,UK,England,InstaLike,2023-07-26 00:00:00,0.038,medium
+u0291,Trust0291,C1_pro_policy,Pro-policy reform advocates,pro,USA,Illinois,RedditLike,2024-11-14 00:00:00,0.056,high
+u0292,Curious0292,C5_general_public,General public and mixed-topic users,mixed,Canada,Ontario,TwitterLike,2023-10-10 00:00:00,0.034,medium
+u0293,Reform0293,C1_pro_policy,Pro-policy reform advocates,pro,Australia,Victoria,InstaLike,2025-02-05 00:00:00,0.272,high
+u0294,News0294,C4_neutral_news,Neutral news and information sharers,neutral,Germany,Bavaria,InstaLike,2024-07-21 00:00:00,0.011,very_high
+u0295,Policy0295,C4_neutral_news,Neutral news and information sharers,neutral,USA,New York,InstaLike,2025-06-08 00:00:00,0.023,medium
+u0296,Liberty0296,C2_anti_policy,Anti-policy free speech advocates,anti,UK,Scotland,RedditLike,2025-08-26 00:00:00,0.038,high
+u0297,Privacy0297,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,New York,InstaLike,2025-04-10 00:00:00,0.061,medium
+u0298,Brief0298,C4_neutral_news,Neutral news and information sharers,neutral,Netherlands,Utrecht,TwitterLike,2024-03-03 00:00:00,0.097,medium
+u0299,Data0299,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Texas,RedditLike,2023-05-10 00:00:00,0.209,medium
+u0300,Resist0300,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Texas,RedditLike,2023-09-08 00:00:00,0.065,medium
+u0301,Cipher0301,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Netherlands,South Holland,TwitterLike,2025-09-11 00:00:00,0.009,medium
+u0302,Civil0302,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Australia,Queensland,TwitterLike,2025-07-30 00:00:00,0.168,very_high
+u0303,Free0303,C2_anti_policy,Anti-policy free speech advocates,anti,USA,New York,RedditLike,2024-02-28 00:00:00,0.131,very_high
+u0304,Brief0304,C4_neutral_news,Neutral news and information sharers,neutral,USA,New York,RedditLike,2024-03-17 00:00:00,0.068,medium
+u0305,Resist0305,C2_anti_policy,Anti-policy free speech advocates,anti,UK,Wales,TwitterLike,2023-09-25 00:00:00,0.235,medium
+u0306,Free0306,C2_anti_policy,Anti-policy free speech advocates,anti,Canada,Quebec,TwitterLike,2025-03-04 00:00:00,0.028,high
+u0307,Reform0307,C1_pro_policy,Pro-policy reform advocates,pro,Canada,Ontario,InstaLike,2024-08-18 00:00:00,0.162,medium
+u0308,Cipher0308,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,California,TwitterLike,2024-10-12 00:00:00,0.073,medium
+u0309,Rights0309,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Australia,Victoria,InstaLike,2024-07-05 00:00:00,0.019,low
+u0310,Free0310,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Illinois,RedditLike,2025-01-19 00:00:00,0.397,medium
+u0311,News0311,C4_neutral_news,Neutral news and information sharers,neutral,USA,Florida,TwitterLike,2025-05-15 00:00:00,0.078,high
+u0312,Policy0312,C4_neutral_news,Neutral news and information sharers,neutral,USA,Illinois,RedditLike,2024-05-01 00:00:00,0.285,high
+u0313,Speech0313,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Texas,TwitterLike,2025-07-27 00:00:00,0.193,very_high
+u0314,Trust0314,C1_pro_policy,Pro-policy reform advocates,pro,Netherlands,North Holland,TwitterLike,2023-06-24 00:00:00,0.112,high
+u0315,Civic0315,C1_pro_policy,Pro-policy reform advocates,pro,USA,Texas,InstaLike,2023-04-09 00:00:00,0.079,medium
+u0316,Privacy0316,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,UK,England,TwitterLike,2024-02-12 00:00:00,0.227,low
+u0317,Curious0317,C5_general_public,General public and mixed-topic users,mixed,Netherlands,South Holland,NewsForum,2025-03-02 00:00:00,0.109,medium
+u0318,Liberty0318,C2_anti_policy,Anti-policy free speech advocates,anti,Germany,Bavaria,RedditLike,2025-09-24 00:00:00,0.097,medium
+u0319,Brief0319,C4_neutral_news,Neutral news and information sharers,neutral,USA,Texas,TwitterLike,2024-11-15 00:00:00,0.048,medium
+u0320,Civic0320,C1_pro_policy,Pro-policy reform advocates,pro,Germany,Berlin,NewsForum,2023-08-19 00:00:00,0.016,high
+u0321,Civic0321,C1_pro_policy,Pro-policy reform advocates,pro,USA,Texas,RedditLike,2023-07-31 00:00:00,0.058,low
+u0322,Account0322,C1_pro_policy,Pro-policy reform advocates,pro,USA,Illinois,InstaLike,2024-05-19 00:00:00,0.023,very_high
+u0323,Safety0323,C1_pro_policy,Pro-policy reform advocates,pro,Netherlands,North Holland,TwitterLike,2024-02-20 00:00:00,0.015,low
+u0324,Rights0324,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Florida,InstaLike,2023-07-24 00:00:00,0.015,low
+u0325,Liberty0325,C2_anti_policy,Anti-policy free speech advocates,anti,UK,Scotland,TwitterLike,2025-05-04 00:00:00,0.083,high
+u0326,Free0326,C2_anti_policy,Anti-policy free speech advocates,anti,Australia,Queensland,RedditLike,2025-09-16 00:00:00,0.064,medium
+u0327,Update0327,C4_neutral_news,Neutral news and information sharers,neutral,UK,Wales,RedditLike,2023-05-02 00:00:00,0.075,very_high
+u0328,Brief0328,C4_neutral_news,Neutral news and information sharers,neutral,Netherlands,Utrecht,RedditLike,2023-12-28 00:00:00,0.022,medium
+u0329,Free0329,C2_anti_policy,Anti-policy free speech advocates,anti,USA,California,TwitterLike,2025-07-15 00:00:00,0.017,very_high
+u0330,Civic0330,C1_pro_policy,Pro-policy reform advocates,pro,USA,Florida,TwitterLike,2023-09-08 00:00:00,0.05,high
+u0331,Liberty0331,C2_anti_policy,Anti-policy free speech advocates,anti,Netherlands,Utrecht,TwitterLike,2024-08-07 00:00:00,0.06,high
+u0332,Mixed0332,C5_general_public,General public and mixed-topic users,mixed,Canada,Ontario,RedditLike,2025-07-06 00:00:00,0.015,high
+u0333,Free0333,C2_anti_policy,Anti-policy free speech advocates,anti,Netherlands,Utrecht,InstaLike,2025-03-25 00:00:00,0.084,very_high
+u0334,Resist0334,C2_anti_policy,Anti-policy free speech advocates,anti,Germany,Bavaria,RedditLike,2023-05-18 00:00:00,0.125,medium
+u0335,Curious0335,C5_general_public,General public and mixed-topic users,mixed,USA,New York,RedditLike,2024-01-20 00:00:00,0.168,high
+u0336,Cipher0336,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Canada,British Columbia,TwitterLike,2023-08-16 00:00:00,0.126,medium
+u0337,Rights0337,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,California,RedditLike,2025-03-03 00:00:00,0.086,medium
+u0338,Data0338,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Florida,TwitterLike,2023-04-26 00:00:00,0.068,medium
+u0339,News0339,C4_neutral_news,Neutral news and information sharers,neutral,UK,Wales,TwitterLike,2023-12-19 00:00:00,0.039,medium
+u0340,Data0340,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,California,TwitterLike,2024-06-09 00:00:00,0.024,medium
+u0341,Account0341,C1_pro_policy,Pro-policy reform advocates,pro,Australia,Queensland,TwitterLike,2023-05-21 00:00:00,0.342,very_high
+u0342,Safety0342,C1_pro_policy,Pro-policy reform advocates,pro,USA,California,InstaLike,2025-07-20 00:00:00,0.116,medium
+u0343,Liberty0343,C2_anti_policy,Anti-policy free speech advocates,anti,USA,Illinois,RedditLike,2024-06-04 00:00:00,0.022,very_high
+u0344,Trust0344,C1_pro_policy,Pro-policy reform advocates,pro,USA,Texas,TwitterLike,2023-10-07 00:00:00,0.076,medium
+u0345,Speech0345,C2_anti_policy,Anti-policy free speech advocates,anti,UK,Scotland,TwitterLike,2023-06-25 00:00:00,0.078,very_high
+u0346,Speech0346,C2_anti_policy,Anti-policy free speech advocates,anti,Netherlands,North Holland,RedditLike,2023-10-30 00:00:00,0.013,high
+u0347,Cipher0347,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Australia,Queensland,RedditLike,2025-12-06 00:00:00,0.282,high
+u0348,Resist0348,C2_anti_policy,Anti-policy free speech advocates,anti,USA,California,RedditLike,2024-03-14 00:00:00,0.019,medium
+u0349,User0349,C5_general_public,General public and mixed-topic users,mixed,USA,Texas,RedditLike,2025-03-17 00:00:00,0.08,very_high
+u0350,OpenNet0350,C2_anti_policy,Anti-policy free speech advocates,anti,Netherlands,South Holland,RedditLike,2023-06-08 00:00:00,0.008,low
+u0351,Resist0351,C2_anti_policy,Anti-policy free speech advocates,anti,Germany,Hamburg,TwitterLike,2024-11-03 00:00:00,0.019,low
+u0352,Account0352,C1_pro_policy,Pro-policy reform advocates,pro,Canada,Ontario,InstaLike,2023-05-21 00:00:00,0.096,low
+u0353,Civic0353,C1_pro_policy,Pro-policy reform advocates,pro,Netherlands,South Holland,TwitterLike,2024-02-12 00:00:00,0.016,medium
+u0354,Cipher0354,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,USA,Illinois,TwitterLike,2025-02-10 00:00:00,0.019,high
+u0355,Safety0355,C1_pro_policy,Pro-policy reform advocates,pro,USA,Texas,InstaLike,2024-09-13 00:00:00,0.055,very_high
+u0356,Reform0356,C1_pro_policy,Pro-policy reform advocates,pro,USA,New York,InstaLike,2025-06-12 00:00:00,0.161,very_high
+u0357,Rights0357,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,Canada,British Columbia,TwitterLike,2024-05-05 00:00:00,0.106,medium
+u0358,Speech0358,C2_anti_policy,Anti-policy free speech advocates,anti,Canada,British Columbia,RedditLike,2025-03-08 00:00:00,0.088,medium
+u0359,Analyst0359,C4_neutral_news,Neutral news and information sharers,neutral,Canada,British Columbia,RedditLike,2023-11-16 00:00:00,0.02,medium
+u0360,Cipher0360,C3_privacy_skeptics,Privacy and civil-liberties skeptics,skeptical,UK,Scotland,TwitterLike,2023-11-12 00:00:00,0.044,very_high

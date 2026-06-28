@@ -1,0 +1,361 @@
+user_id,detected_cluster,username,ground_truth_cluster,ground_truth_stance,cluster_label
+u0001,0,Privacy0001,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0002,0,Account0002,C1_pro_policy,pro,Pro-policy reform advocates
+u0003,0,Data0003,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0004,0,Brief0004,C4_neutral_news,neutral,Neutral news and information sharers
+u0005,0,Data0005,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0006,0,Civil0006,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0007,0,Update0007,C4_neutral_news,neutral,Neutral news and information sharers
+u0008,0,Civic0008,C1_pro_policy,pro,Pro-policy reform advocates
+u0009,0,Liberty0009,C2_anti_policy,anti,Anti-policy free speech advocates
+u0010,0,Everyday0010,C5_general_public,mixed,General public and mixed-topic users
+u0011,0,OpenNet0011,C2_anti_policy,anti,Anti-policy free speech advocates
+u0012,0,Civil0012,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0013,0,Safety0013,C1_pro_policy,pro,Pro-policy reform advocates
+u0014,0,Mixed0014,C5_general_public,mixed,General public and mixed-topic users
+u0015,0,OpenNet0015,C2_anti_policy,anti,Anti-policy free speech advocates
+u0016,0,Reform0016,C1_pro_policy,pro,Pro-policy reform advocates
+u0017,0,Privacy0017,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0018,0,Data0018,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0019,0,Account0019,C1_pro_policy,pro,Pro-policy reform advocates
+u0020,0,Mixed0020,C5_general_public,mixed,General public and mixed-topic users
+u0021,0,Free0021,C2_anti_policy,anti,Anti-policy free speech advocates
+u0022,0,Account0022,C1_pro_policy,pro,Pro-policy reform advocates
+u0023,0,Account0023,C1_pro_policy,pro,Pro-policy reform advocates
+u0024,0,Trust0024,C1_pro_policy,pro,Pro-policy reform advocates
+u0025,0,Civic0025,C1_pro_policy,pro,Pro-policy reform advocates
+u0026,0,Social0026,C5_general_public,mixed,General public and mixed-topic users
+u0027,0,Reform0027,C1_pro_policy,pro,Pro-policy reform advocates
+u0028,0,Safety0028,C1_pro_policy,pro,Pro-policy reform advocates
+u0029,0,Trust0029,C1_pro_policy,pro,Pro-policy reform advocates
+u0030,0,Safety0030,C1_pro_policy,pro,Pro-policy reform advocates
+u0031,0,Rights0031,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0032,0,Civic0032,C1_pro_policy,pro,Pro-policy reform advocates
+u0033,0,Social0033,C5_general_public,mixed,General public and mixed-topic users
+u0034,0,Cipher0034,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0035,0,Liberty0035,C2_anti_policy,anti,Anti-policy free speech advocates
+u0036,0,Cipher0036,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0037,0,Analyst0037,C4_neutral_news,neutral,Neutral news and information sharers
+u0038,0,Update0038,C4_neutral_news,neutral,Neutral news and information sharers
+u0039,0,Rights0039,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0040,0,Liberty0040,C2_anti_policy,anti,Anti-policy free speech advocates
+u0041,0,Resist0041,C2_anti_policy,anti,Anti-policy free speech advocates
+u0042,0,Free0042,C2_anti_policy,anti,Anti-policy free speech advocates
+u0043,0,Speech0043,C2_anti_policy,anti,Anti-policy free speech advocates
+u0044,0,OpenNet0044,C2_anti_policy,anti,Anti-policy free speech advocates
+u0045,0,Curious0045,C5_general_public,mixed,General public and mixed-topic users
+u0046,0,News0046,C4_neutral_news,neutral,Neutral news and information sharers
+u0047,0,Privacy0047,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0048,0,Safety0048,C1_pro_policy,pro,Pro-policy reform advocates
+u0049,0,News0049,C4_neutral_news,neutral,Neutral news and information sharers
+u0050,0,Privacy0050,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0051,0,Speech0051,C2_anti_policy,anti,Anti-policy free speech advocates
+u0052,0,Update0052,C4_neutral_news,neutral,Neutral news and information sharers
+u0053,0,Civil0053,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0054,0,Analyst0054,C4_neutral_news,neutral,Neutral news and information sharers
+u0055,0,Resist0055,C2_anti_policy,anti,Anti-policy free speech advocates
+u0056,0,Safety0056,C1_pro_policy,pro,Pro-policy reform advocates
+u0057,0,Resist0057,C2_anti_policy,anti,Anti-policy free speech advocates
+u0058,0,Trust0058,C1_pro_policy,pro,Pro-policy reform advocates
+u0059,0,Civic0059,C1_pro_policy,pro,Pro-policy reform advocates
+u0060,0,Civic0060,C1_pro_policy,pro,Pro-policy reform advocates
+u0061,0,Safety0061,C1_pro_policy,pro,Pro-policy reform advocates
+u0062,0,User0062,C5_general_public,mixed,General public and mixed-topic users
+u0063,0,Social0063,C5_general_public,mixed,General public and mixed-topic users
+u0064,0,Civil0064,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0065,0,Civil0065,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0066,0,Curious0066,C5_general_public,mixed,General public and mixed-topic users
+u0067,0,Everyday0067,C5_general_public,mixed,General public and mixed-topic users
+u0068,0,Mixed0068,C5_general_public,mixed,General public and mixed-topic users
+u0069,0,Everyday0069,C5_general_public,mixed,General public and mixed-topic users
+u0070,0,Safety0070,C1_pro_policy,pro,Pro-policy reform advocates
+u0071,0,Speech0071,C2_anti_policy,anti,Anti-policy free speech advocates
+u0072,0,Civic0072,C1_pro_policy,pro,Pro-policy reform advocates
+u0073,0,Free0073,C2_anti_policy,anti,Anti-policy free speech advocates
+u0074,0,Analyst0074,C4_neutral_news,neutral,Neutral news and information sharers
+u0075,0,Free0075,C2_anti_policy,anti,Anti-policy free speech advocates
+u0076,0,Free0076,C2_anti_policy,anti,Anti-policy free speech advocates
+u0077,0,Liberty0077,C2_anti_policy,anti,Anti-policy free speech advocates
+u0078,0,Safety0078,C1_pro_policy,pro,Pro-policy reform advocates
+u0079,0,Social0079,C5_general_public,mixed,General public and mixed-topic users
+u0080,0,OpenNet0080,C2_anti_policy,anti,Anti-policy free speech advocates
+u0081,0,Safety0081,C1_pro_policy,pro,Pro-policy reform advocates
+u0082,0,Curious0082,C5_general_public,mixed,General public and mixed-topic users
+u0083,0,Cipher0083,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0084,0,Social0084,C5_general_public,mixed,General public and mixed-topic users
+u0085,0,Cipher0085,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0086,0,Update0086,C4_neutral_news,neutral,Neutral news and information sharers
+u0087,0,Everyday0087,C5_general_public,mixed,General public and mixed-topic users
+u0088,0,Everyday0088,C5_general_public,mixed,General public and mixed-topic users
+u0089,0,Cipher0089,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0090,0,Cipher0090,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0091,0,Account0091,C1_pro_policy,pro,Pro-policy reform advocates
+u0092,0,News0092,C4_neutral_news,neutral,Neutral news and information sharers
+u0093,0,Safety0093,C1_pro_policy,pro,Pro-policy reform advocates
+u0094,0,Policy0094,C4_neutral_news,neutral,Neutral news and information sharers
+u0095,0,Reform0095,C1_pro_policy,pro,Pro-policy reform advocates
+u0096,0,Safety0096,C1_pro_policy,pro,Pro-policy reform advocates
+u0097,0,Everyday0097,C5_general_public,mixed,General public and mixed-topic users
+u0098,0,Privacy0098,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0099,0,Everyday0099,C5_general_public,mixed,General public and mixed-topic users
+u0100,0,Free0100,C2_anti_policy,anti,Anti-policy free speech advocates
+u0101,0,Cipher0101,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0102,0,User0102,C5_general_public,mixed,General public and mixed-topic users
+u0103,0,Update0103,C4_neutral_news,neutral,Neutral news and information sharers
+u0104,0,Data0104,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0105,0,Civic0105,C1_pro_policy,pro,Pro-policy reform advocates
+u0106,0,Resist0106,C2_anti_policy,anti,Anti-policy free speech advocates
+u0107,0,Cipher0107,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0108,0,Rights0108,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0109,0,Speech0109,C2_anti_policy,anti,Anti-policy free speech advocates
+u0110,0,Trust0110,C1_pro_policy,pro,Pro-policy reform advocates
+u0111,0,Curious0111,C5_general_public,mixed,General public and mixed-topic users
+u0112,-1,Civic0112,C1_pro_policy,pro,Pro-policy reform advocates
+u0113,0,Liberty0113,C2_anti_policy,anti,Anti-policy free speech advocates
+u0114,0,Account0114,C1_pro_policy,pro,Pro-policy reform advocates
+u0115,0,Free0115,C2_anti_policy,anti,Anti-policy free speech advocates
+u0116,0,Reform0116,C1_pro_policy,pro,Pro-policy reform advocates
+u0117,0,Resist0117,C2_anti_policy,anti,Anti-policy free speech advocates
+u0118,0,Resist0118,C2_anti_policy,anti,Anti-policy free speech advocates
+u0119,0,Resist0119,C2_anti_policy,anti,Anti-policy free speech advocates
+u0120,0,Privacy0120,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0121,0,Reform0121,C1_pro_policy,pro,Pro-policy reform advocates
+u0122,0,Reform0122,C1_pro_policy,pro,Pro-policy reform advocates
+u0123,0,Resist0123,C2_anti_policy,anti,Anti-policy free speech advocates
+u0124,0,Safety0124,C1_pro_policy,pro,Pro-policy reform advocates
+u0125,0,OpenNet0125,C2_anti_policy,anti,Anti-policy free speech advocates
+u0126,0,Resist0126,C2_anti_policy,anti,Anti-policy free speech advocates
+u0127,0,Everyday0127,C5_general_public,mixed,General public and mixed-topic users
+u0128,0,User0128,C5_general_public,mixed,General public and mixed-topic users
+u0129,0,Safety0129,C1_pro_policy,pro,Pro-policy reform advocates
+u0130,0,Liberty0130,C2_anti_policy,anti,Anti-policy free speech advocates
+u0131,0,Rights0131,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0132,0,Social0132,C5_general_public,mixed,General public and mixed-topic users
+u0133,0,Trust0133,C1_pro_policy,pro,Pro-policy reform advocates
+u0134,0,Free0134,C2_anti_policy,anti,Anti-policy free speech advocates
+u0135,0,Reform0135,C1_pro_policy,pro,Pro-policy reform advocates
+u0136,0,OpenNet0136,C2_anti_policy,anti,Anti-policy free speech advocates
+u0137,0,Resist0137,C2_anti_policy,anti,Anti-policy free speech advocates
+u0138,0,Cipher0138,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0139,0,Everyday0139,C5_general_public,mixed,General public and mixed-topic users
+u0140,0,Safety0140,C1_pro_policy,pro,Pro-policy reform advocates
+u0141,0,Account0141,C1_pro_policy,pro,Pro-policy reform advocates
+u0142,0,Liberty0142,C2_anti_policy,anti,Anti-policy free speech advocates
+u0143,0,Data0143,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0144,0,Speech0144,C2_anti_policy,anti,Anti-policy free speech advocates
+u0145,0,OpenNet0145,C2_anti_policy,anti,Anti-policy free speech advocates
+u0146,0,Privacy0146,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0147,0,Civil0147,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0148,0,Civil0148,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0149,0,Trust0149,C1_pro_policy,pro,Pro-policy reform advocates
+u0150,0,Trust0150,C1_pro_policy,pro,Pro-policy reform advocates
+u0151,0,Free0151,C2_anti_policy,anti,Anti-policy free speech advocates
+u0152,0,Safety0152,C1_pro_policy,pro,Pro-policy reform advocates
+u0153,0,Liberty0153,C2_anti_policy,anti,Anti-policy free speech advocates
+u0154,0,Free0154,C2_anti_policy,anti,Anti-policy free speech advocates
+u0155,0,Civil0155,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0156,0,Account0156,C1_pro_policy,pro,Pro-policy reform advocates
+u0157,0,Civil0157,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0158,0,Civil0158,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0159,0,Privacy0159,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0160,0,Civil0160,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0161,-1,Safety0161,C1_pro_policy,pro,Pro-policy reform advocates
+u0162,0,Curious0162,C5_general_public,mixed,General public and mixed-topic users
+u0163,0,User0163,C5_general_public,mixed,General public and mixed-topic users
+u0164,0,OpenNet0164,C2_anti_policy,anti,Anti-policy free speech advocates
+u0165,0,Data0165,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0166,0,Safety0166,C1_pro_policy,pro,Pro-policy reform advocates
+u0167,0,Privacy0167,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0168,0,Free0168,C2_anti_policy,anti,Anti-policy free speech advocates
+u0169,0,Reform0169,C1_pro_policy,pro,Pro-policy reform advocates
+u0170,0,News0170,C4_neutral_news,neutral,Neutral news and information sharers
+u0171,0,Reform0171,C1_pro_policy,pro,Pro-policy reform advocates
+u0172,0,Curious0172,C5_general_public,mixed,General public and mixed-topic users
+u0173,0,Curious0173,C5_general_public,mixed,General public and mixed-topic users
+u0174,0,Speech0174,C2_anti_policy,anti,Anti-policy free speech advocates
+u0175,0,Liberty0175,C2_anti_policy,anti,Anti-policy free speech advocates
+u0176,0,Resist0176,C2_anti_policy,anti,Anti-policy free speech advocates
+u0177,0,OpenNet0177,C2_anti_policy,anti,Anti-policy free speech advocates
+u0178,0,Trust0178,C1_pro_policy,pro,Pro-policy reform advocates
+u0179,0,Free0179,C2_anti_policy,anti,Anti-policy free speech advocates
+u0180,0,Civic0180,C1_pro_policy,pro,Pro-policy reform advocates
+u0181,0,Policy0181,C4_neutral_news,neutral,Neutral news and information sharers
+u0182,0,Trust0182,C1_pro_policy,pro,Pro-policy reform advocates
+u0183,0,OpenNet0183,C2_anti_policy,anti,Anti-policy free speech advocates
+u0184,0,Social0184,C5_general_public,mixed,General public and mixed-topic users
+u0185,0,Resist0185,C2_anti_policy,anti,Anti-policy free speech advocates
+u0186,0,User0186,C5_general_public,mixed,General public and mixed-topic users
+u0187,0,Account0187,C1_pro_policy,pro,Pro-policy reform advocates
+u0188,0,Trust0188,C1_pro_policy,pro,Pro-policy reform advocates
+u0189,0,Mixed0189,C5_general_public,mixed,General public and mixed-topic users
+u0190,0,Free0190,C2_anti_policy,anti,Anti-policy free speech advocates
+u0191,0,Reform0191,C1_pro_policy,pro,Pro-policy reform advocates
+u0192,0,Free0192,C2_anti_policy,anti,Anti-policy free speech advocates
+u0193,0,Liberty0193,C2_anti_policy,anti,Anti-policy free speech advocates
+u0194,0,Policy0194,C4_neutral_news,neutral,Neutral news and information sharers
+u0195,0,User0195,C5_general_public,mixed,General public and mixed-topic users
+u0196,0,Speech0196,C2_anti_policy,anti,Anti-policy free speech advocates
+u0197,0,News0197,C4_neutral_news,neutral,Neutral news and information sharers
+u0198,0,Trust0198,C1_pro_policy,pro,Pro-policy reform advocates
+u0199,0,Reform0199,C1_pro_policy,pro,Pro-policy reform advocates
+u0200,0,User0200,C5_general_public,mixed,General public and mixed-topic users
+u0201,0,Liberty0201,C2_anti_policy,anti,Anti-policy free speech advocates
+u0202,0,Account0202,C1_pro_policy,pro,Pro-policy reform advocates
+u0203,0,OpenNet0203,C2_anti_policy,anti,Anti-policy free speech advocates
+u0204,0,Liberty0204,C2_anti_policy,anti,Anti-policy free speech advocates
+u0205,0,Civic0205,C1_pro_policy,pro,Pro-policy reform advocates
+u0206,0,Reform0206,C1_pro_policy,pro,Pro-policy reform advocates
+u0207,0,Cipher0207,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0208,0,OpenNet0208,C2_anti_policy,anti,Anti-policy free speech advocates
+u0209,0,Mixed0209,C5_general_public,mixed,General public and mixed-topic users
+u0210,0,Trust0210,C1_pro_policy,pro,Pro-policy reform advocates
+u0211,0,Rights0211,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0212,0,Data0212,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0213,0,Policy0213,C4_neutral_news,neutral,Neutral news and information sharers
+u0214,0,Social0214,C5_general_public,mixed,General public and mixed-topic users
+u0215,0,OpenNet0215,C2_anti_policy,anti,Anti-policy free speech advocates
+u0216,0,Free0216,C2_anti_policy,anti,Anti-policy free speech advocates
+u0217,0,News0217,C4_neutral_news,neutral,Neutral news and information sharers
+u0218,0,Safety0218,C1_pro_policy,pro,Pro-policy reform advocates
+u0219,0,Liberty0219,C2_anti_policy,anti,Anti-policy free speech advocates
+u0220,0,OpenNet0220,C2_anti_policy,anti,Anti-policy free speech advocates
+u0221,0,Civil0221,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0222,0,Civic0222,C1_pro_policy,pro,Pro-policy reform advocates
+u0223,0,Free0223,C2_anti_policy,anti,Anti-policy free speech advocates
+u0224,0,Free0224,C2_anti_policy,anti,Anti-policy free speech advocates
+u0225,0,Account0225,C1_pro_policy,pro,Pro-policy reform advocates
+u0226,0,Trust0226,C1_pro_policy,pro,Pro-policy reform advocates
+u0227,0,Liberty0227,C2_anti_policy,anti,Anti-policy free speech advocates
+u0228,0,Civil0228,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0229,0,OpenNet0229,C2_anti_policy,anti,Anti-policy free speech advocates
+u0230,0,Civic0230,C1_pro_policy,pro,Pro-policy reform advocates
+u0231,0,Free0231,C2_anti_policy,anti,Anti-policy free speech advocates
+u0232,0,Civil0232,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0233,0,Rights0233,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0234,0,Privacy0234,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0235,0,Civic0235,C1_pro_policy,pro,Pro-policy reform advocates
+u0236,0,Safety0236,C1_pro_policy,pro,Pro-policy reform advocates
+u0237,0,Civic0237,C1_pro_policy,pro,Pro-policy reform advocates
+u0238,0,Speech0238,C2_anti_policy,anti,Anti-policy free speech advocates
+u0239,0,Cipher0239,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0240,0,Update0240,C4_neutral_news,neutral,Neutral news and information sharers
+u0241,0,Analyst0241,C4_neutral_news,neutral,Neutral news and information sharers
+u0242,0,Resist0242,C2_anti_policy,anti,Anti-policy free speech advocates
+u0243,0,Liberty0243,C2_anti_policy,anti,Anti-policy free speech advocates
+u0244,0,Analyst0244,C4_neutral_news,neutral,Neutral news and information sharers
+u0245,0,Everyday0245,C5_general_public,mixed,General public and mixed-topic users
+u0246,0,Speech0246,C2_anti_policy,anti,Anti-policy free speech advocates
+u0247,0,Speech0247,C2_anti_policy,anti,Anti-policy free speech advocates
+u0248,0,Resist0248,C2_anti_policy,anti,Anti-policy free speech advocates
+u0249,0,Trust0249,C1_pro_policy,pro,Pro-policy reform advocates
+u0250,0,Trust0250,C1_pro_policy,pro,Pro-policy reform advocates
+u0251,0,Account0251,C1_pro_policy,pro,Pro-policy reform advocates
+u0252,0,Reform0252,C1_pro_policy,pro,Pro-policy reform advocates
+u0253,0,Rights0253,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0254,0,Trust0254,C1_pro_policy,pro,Pro-policy reform advocates
+u0255,0,Curious0255,C5_general_public,mixed,General public and mixed-topic users
+u0256,0,Free0256,C2_anti_policy,anti,Anti-policy free speech advocates
+u0257,0,OpenNet0257,C2_anti_policy,anti,Anti-policy free speech advocates
+u0258,0,Trust0258,C1_pro_policy,pro,Pro-policy reform advocates
+u0259,0,Analyst0259,C4_neutral_news,neutral,Neutral news and information sharers
+u0260,0,Mixed0260,C5_general_public,mixed,General public and mixed-topic users
+u0261,0,Civic0261,C1_pro_policy,pro,Pro-policy reform advocates
+u0262,0,Rights0262,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0263,0,User0263,C5_general_public,mixed,General public and mixed-topic users
+u0264,0,Account0264,C1_pro_policy,pro,Pro-policy reform advocates
+u0265,0,Account0265,C1_pro_policy,pro,Pro-policy reform advocates
+u0266,0,Analyst0266,C4_neutral_news,neutral,Neutral news and information sharers
+u0267,0,Account0267,C1_pro_policy,pro,Pro-policy reform advocates
+u0268,0,Rights0268,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0269,0,Account0269,C1_pro_policy,pro,Pro-policy reform advocates
+u0270,0,Resist0270,C2_anti_policy,anti,Anti-policy free speech advocates
+u0271,0,Social0271,C5_general_public,mixed,General public and mixed-topic users
+u0272,0,Cipher0272,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0273,0,Rights0273,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0274,0,Social0274,C5_general_public,mixed,General public and mixed-topic users
+u0275,0,Privacy0275,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0276,0,Policy0276,C4_neutral_news,neutral,Neutral news and information sharers
+u0277,0,Rights0277,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0278,0,Privacy0278,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0279,0,Free0279,C2_anti_policy,anti,Anti-policy free speech advocates
+u0280,0,Account0280,C1_pro_policy,pro,Pro-policy reform advocates
+u0281,0,Trust0281,C1_pro_policy,pro,Pro-policy reform advocates
+u0282,0,Liberty0282,C2_anti_policy,anti,Anti-policy free speech advocates
+u0283,0,Reform0283,C1_pro_policy,pro,Pro-policy reform advocates
+u0284,0,Analyst0284,C4_neutral_news,neutral,Neutral news and information sharers
+u0285,0,Brief0285,C4_neutral_news,neutral,Neutral news and information sharers
+u0286,0,Speech0286,C2_anti_policy,anti,Anti-policy free speech advocates
+u0287,0,Brief0287,C4_neutral_news,neutral,Neutral news and information sharers
+u0288,0,User0288,C5_general_public,mixed,General public and mixed-topic users
+u0289,0,Brief0289,C4_neutral_news,neutral,Neutral news and information sharers
+u0290,0,Social0290,C5_general_public,mixed,General public and mixed-topic users
+u0291,0,Trust0291,C1_pro_policy,pro,Pro-policy reform advocates
+u0292,0,Curious0292,C5_general_public,mixed,General public and mixed-topic users
+u0293,0,Reform0293,C1_pro_policy,pro,Pro-policy reform advocates
+u0294,0,News0294,C4_neutral_news,neutral,Neutral news and information sharers
+u0295,0,Policy0295,C4_neutral_news,neutral,Neutral news and information sharers
+u0296,0,Liberty0296,C2_anti_policy,anti,Anti-policy free speech advocates
+u0297,0,Privacy0297,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0298,0,Brief0298,C4_neutral_news,neutral,Neutral news and information sharers
+u0299,0,Data0299,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0300,0,Resist0300,C2_anti_policy,anti,Anti-policy free speech advocates
+u0301,0,Cipher0301,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0302,0,Civil0302,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0303,0,Free0303,C2_anti_policy,anti,Anti-policy free speech advocates
+u0304,0,Brief0304,C4_neutral_news,neutral,Neutral news and information sharers
+u0305,0,Resist0305,C2_anti_policy,anti,Anti-policy free speech advocates
+u0306,0,Free0306,C2_anti_policy,anti,Anti-policy free speech advocates
+u0307,0,Reform0307,C1_pro_policy,pro,Pro-policy reform advocates
+u0308,0,Cipher0308,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0309,0,Rights0309,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0310,0,Free0310,C2_anti_policy,anti,Anti-policy free speech advocates
+u0311,0,News0311,C4_neutral_news,neutral,Neutral news and information sharers
+u0312,0,Policy0312,C4_neutral_news,neutral,Neutral news and information sharers
+u0313,0,Speech0313,C2_anti_policy,anti,Anti-policy free speech advocates
+u0314,0,Trust0314,C1_pro_policy,pro,Pro-policy reform advocates
+u0315,0,Civic0315,C1_pro_policy,pro,Pro-policy reform advocates
+u0316,0,Privacy0316,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0317,0,Curious0317,C5_general_public,mixed,General public and mixed-topic users
+u0318,0,Liberty0318,C2_anti_policy,anti,Anti-policy free speech advocates
+u0319,0,Brief0319,C4_neutral_news,neutral,Neutral news and information sharers
+u0320,0,Civic0320,C1_pro_policy,pro,Pro-policy reform advocates
+u0321,0,Civic0321,C1_pro_policy,pro,Pro-policy reform advocates
+u0322,0,Account0322,C1_pro_policy,pro,Pro-policy reform advocates
+u0323,0,Safety0323,C1_pro_policy,pro,Pro-policy reform advocates
+u0324,0,Rights0324,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0325,0,Liberty0325,C2_anti_policy,anti,Anti-policy free speech advocates
+u0326,0,Free0326,C2_anti_policy,anti,Anti-policy free speech advocates
+u0327,0,Update0327,C4_neutral_news,neutral,Neutral news and information sharers
+u0328,0,Brief0328,C4_neutral_news,neutral,Neutral news and information sharers
+u0329,0,Free0329,C2_anti_policy,anti,Anti-policy free speech advocates
+u0330,0,Civic0330,C1_pro_policy,pro,Pro-policy reform advocates
+u0331,0,Liberty0331,C2_anti_policy,anti,Anti-policy free speech advocates
+u0332,0,Mixed0332,C5_general_public,mixed,General public and mixed-topic users
+u0333,0,Free0333,C2_anti_policy,anti,Anti-policy free speech advocates
+u0334,0,Resist0334,C2_anti_policy,anti,Anti-policy free speech advocates
+u0335,0,Curious0335,C5_general_public,mixed,General public and mixed-topic users
+u0336,0,Cipher0336,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0337,0,Rights0337,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0338,0,Data0338,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0339,0,News0339,C4_neutral_news,neutral,Neutral news and information sharers
+u0340,0,Data0340,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0341,0,Account0341,C1_pro_policy,pro,Pro-policy reform advocates
+u0342,0,Safety0342,C1_pro_policy,pro,Pro-policy reform advocates
+u0343,0,Liberty0343,C2_anti_policy,anti,Anti-policy free speech advocates
+u0344,0,Trust0344,C1_pro_policy,pro,Pro-policy reform advocates
+u0345,0,Speech0345,C2_anti_policy,anti,Anti-policy free speech advocates
+u0346,0,Speech0346,C2_anti_policy,anti,Anti-policy free speech advocates
+u0347,0,Cipher0347,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0348,0,Resist0348,C2_anti_policy,anti,Anti-policy free speech advocates
+u0349,0,User0349,C5_general_public,mixed,General public and mixed-topic users
+u0350,0,OpenNet0350,C2_anti_policy,anti,Anti-policy free speech advocates
+u0351,0,Resist0351,C2_anti_policy,anti,Anti-policy free speech advocates
+u0352,0,Account0352,C1_pro_policy,pro,Pro-policy reform advocates
+u0353,0,Civic0353,C1_pro_policy,pro,Pro-policy reform advocates
+u0354,0,Cipher0354,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0355,0,Safety0355,C1_pro_policy,pro,Pro-policy reform advocates
+u0356,0,Reform0356,C1_pro_policy,pro,Pro-policy reform advocates
+u0357,0,Rights0357,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
+u0358,0,Speech0358,C2_anti_policy,anti,Anti-policy free speech advocates
+u0359,0,Analyst0359,C4_neutral_news,neutral,Neutral news and information sharers
+u0360,0,Cipher0360,C3_privacy_skeptics,skeptical,Privacy and civil-liberties skeptics
