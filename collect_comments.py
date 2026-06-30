@@ -4,15 +4,6 @@ import pandas as pd
 
 API_KEY = "PASTE_API_KEY_HERE"
 
-#option 1
-'''
-VIDEOS = {
-    "before": ["bj7tdVNT30c", "IKebCANuirA", "dxv0NoIFboU", "8YJ3L8y6TZU", "XpFj9XfFcyE"],
-    "after": ["8yiObBm6pT4", "BQzJTa4FKK4"]
-}
-'''
-
-#option 2
 VIDEOS = {
     "before": ["bj7tdVNT30c"],
     "after": ["8yiObBm6pT4"]
